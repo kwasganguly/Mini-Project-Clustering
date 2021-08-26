@@ -1,5 +1,4 @@
-# Mini-Project-Clustering
-# Unsupervised Learning
+# Mini-Project-Clustering - Unsupervised Learning
 
 # Customer Segmentation in Python
 
